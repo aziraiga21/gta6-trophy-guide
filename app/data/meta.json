@@ -1,0 +1,279 @@
+{
+  "title": "Vice Meridian",
+  "asOf": "2026-11-21",
+  "totals": {
+    "trophies": 55,
+    "platinum": 1,
+    "gold": 2,
+    "silver": 6,
+    "bronze": 46,
+    "online": 0,
+    "hidden": 28,
+    "hours": 200,
+    "difficulty": "4/10",
+    "playthroughs": 1,
+    "glitchedReported": 0
+  },
+  "sources": {
+    "P": {
+      "name": "PowerPyx",
+      "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vI-trophy-guide-roadmap/",
+      "backs": "Campaign, named mission routes, missable window, and completion targets",
+      "accessed": "2026-11-21"
+    },
+    "S": {
+      "name": "Push Square",
+      "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap",
+      "backs": "Hidden flags, activity routes, and in-game progress menus",
+      "accessed": "2026-11-21"
+    },
+    "K": {
+      "name": "KeenGamer",
+      "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/",
+      "backs": "Platinum estimates, balcony precaution, and completion requirements",
+      "accessed": "2026-11-21"
+    },
+    "E": {
+      "name": "Exophase",
+      "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+      "backs": "PlayStation trophy wording and grades",
+      "accessed": "2026-11-21"
+    },
+    "N": {
+      "name": "PSNProfiles",
+      "backs": "Second catalog for official PlayStation wording and grades, as documented by the kit",
+      "accessed": "2026-11-21"
+    },
+    "M": {
+      "name": "GameMapa",
+      "url": "https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/",
+      "backs": "Companion trophy catalog",
+      "accessed": "2026-11-21"
+    },
+    "G": {
+      "name": "eGamers",
+      "url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/",
+      "backs": "Companion catalog and trophy overview",
+      "accessed": "2026-11-21"
+    },
+    "F": {
+      "name": "FullSweep",
+      "url": "https://fullsweepmap.com/wiki/gta6-trophies/",
+      "backs": "Reference supplied in the research brief. Page unavailable during this build.",
+      "accessed": null
+    },
+    "T": {
+      "name": "GTASpotter",
+      "url": "https://gtaspotter.com/en/guides/gta-6-trophies-and-achievements/",
+      "backs": "Reference supplied in the research brief. Page unavailable during this build.",
+      "accessed": null
+    }
+  },
+  "stages": [
+    {
+      "title": "Finish the story",
+      "hours": "60–80 h",
+      "claims": [
+        {
+          "text": "Play through five chapters. Make separate manual saves at the beginning and end of each chapter.",
+          "refs": [
+            "P",
+            "K"
+          ]
+        },
+        {
+          "text": "Take the Chapter 1 balcony meditation before moving on.",
+          "refs": [
+            "P",
+            "K"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Clear the 100% checklist",
+      "hours": "~100 h",
+      "claims": [
+        {
+          "text": "Continue in free roam and use the checklist to guide robberies, exploration and activities.",
+          "refs": [
+            "P",
+            "K"
+          ]
+        },
+        {
+          "text": "Work toward 70 Challenges. The 50-Challenge trophy unlocks on the way.",
+          "refs": [
+            "P",
+            "S"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Finish stranger strands & cleanup",
+      "hours": "~10 h",
+      "claims": [
+        {
+          "text": "Close out eight qualifying stranger strands and the trophies still open after the checklist.",
+          "refs": [
+            "P"
+          ]
+        },
+        {
+          "text": "The platinum is awarded after you earn the other trophies.",
+          "refs": [
+            "S",
+            "K"
+          ]
+        }
+      ]
+    }
+  ],
+  "missable": {
+    "text": "Potentially missable in Chapter 1. After Down to Earth, follow Lucia to the balcony at Jason’s house in the morning and accept. Make a manual save before continuing.",
+    "refs": [
+      "P",
+      "K"
+    ]
+  },
+  "steps28": [
+    {
+      "text": "After Down to Earth, find Lucia at Jason’s house in the morning.",
+      "refs": [
+        "P",
+        "K"
+      ]
+    },
+    {
+      "text": "Follow her to the balcony and accept before Chapter 1 ends.",
+      "refs": [
+        "P",
+        "K"
+      ]
+    },
+    {
+      "text": "Finish each meditation sequence and check Progress › Collections › Exploration › Meditations.",
+      "refs": [
+        "P",
+        "S"
+      ]
+    }
+  ],
+  "checklist": {
+    "intro": {
+      "text": "After the story, open Progress › Stats › 100% Completion. The checklist requires a subset of the world’s objectives.",
+      "refs": [
+        "P",
+        "K"
+      ]
+    },
+    "partial": [
+      {
+        "text": "200 / 277 base vehicles · scan with WAiNK",
+        "refs": [
+          "P",
+          "K"
+        ]
+      },
+      {
+        "text": "100 / 255 animals · study with binoculars",
+        "refs": [
+          "P",
+          "K"
+        ]
+      },
+      {
+        "text": "70 / 80 Challenges · eight groups of ten",
+        "refs": [
+          "P",
+          "K"
+        ]
+      },
+      {
+        "text": "15 / 18 card sets · the trophy needs three",
+        "refs": [
+          "K",
+          "S"
+        ]
+      },
+      {
+        "text": "100 / 125 Cocaine Flamingos",
+        "refs": [
+          "K"
+        ]
+      },
+      {
+        "text": "34 / 35 Smash ’N’ Grabs and 50 / 91 Stick Ups",
+        "refs": [
+          "K"
+        ]
+      }
+    ],
+    "full": [
+      {
+        "text": "39 Gang Operations, 22 Bank Jobs, 7 Payday Loan Jobs and 8 bank vaults",
+        "refs": [
+          "K"
+        ]
+      },
+      {
+        "text": "33 underwater discoveries, 42 shooting range golds and 42 drone trials",
+        "refs": [
+          "P",
+          "K"
+        ]
+      },
+      {
+        "text": "All 15 Bret Target Decks",
+        "refs": [
+          "P",
+          "K"
+        ]
+      },
+      {
+        "text": "100 WAiNK locations",
+        "refs": [
+          "K"
+        ]
+      }
+    ],
+    "other": [
+      {
+        "text": "Also listed by KeenGamer: story, 100 optional tasks, fencing targets, Kenton treasure sets, books and magazines, meditations, playlists, styles, weapons, race wins and golds, arcade games, pool, mini golf, basketball and 300 stunts.",
+        "refs": [
+          "K"
+        ]
+      }
+    ]
+  },
+  "watch": [
+    {
+      "text": "Mission replay is unavailable. Use separate manual saves at each chapter’s start and end.",
+      "refs": [
+        "P",
+        "K"
+      ]
+    },
+    {
+      "text": "Cheats disable trophies and saving while active.",
+      "refs": [
+        "P",
+        "K"
+      ]
+    },
+    {
+      "text": "Use Lucia for Andy and Jason for Tyrone and Bret. Hourglass-marked quests can expire and do not count toward the trophy.",
+      "refs": [
+        "P",
+        "K"
+      ]
+    },
+    {
+      "text": "The Irredeemable profile choice is irreversible.",
+      "refs": [
+        "P"
+      ]
+    }
+  ]
+}
